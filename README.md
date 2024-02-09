@@ -7,7 +7,6 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ml-mgie-jupyter/blob/main/ml_mgie_gradio_jupyter.ipynb) | ml_mgie_gradio_jupyter (Pro Colab 😭)
-[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/ml-mgie) | ml_mgie_jupyter (Free Kaggle)
 
 ### 🧬 Code
 https://github.com/tsujuifu/pytorch_mgie <br />
