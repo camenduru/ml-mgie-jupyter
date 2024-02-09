@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ml-mgie-jupyter/blob/main/ml_mgie_gradio_jupyter.ipynb) | ml_mgie_gradio_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ml-mgie-jupyter/blob/main/ml_mgie_gradio_jupyter.ipynb) | ml_mgie_gradio_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/tsujuifu/pytorch_mgie <br />
